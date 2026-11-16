@@ -2,6 +2,8 @@
 
 Yitzchak Shmalo, 16 November 2026.
 
+Archived on Zenodo: [doi:10.5281/zenodo.24275698](https://doi.org/10.5281/zenodo.24275698).
+
 In the card-cyclic-to-random shuffle of n cards, the cards labelled 1, ..., n are removed in turn, cyclically, and each is reinserted at a uniformly random position. Morris, Ning and Peres (Ann. Appl. Probab. 24, 2014; arXiv:1207.3406) proved that the mixing time is of order n log n, with a lower bound of c n log n for every c < 1/(2+2a), where -a+ib is a root of e^{-z} = 1-z and a is about 2.089. The paper raises the lower constant from about 0.162 to 1/(2a), about 0.239. On functions of the relative order of pairs of cards the chain acts as the exterior square of an explicit n by n matrix; two eigenvectors of that matrix give an exact eigenfunction of the chain, with eigenvalue of modulus 1 - a/n + O(n^{-2}), and a second-moment argument finishes the proof. Whether the shuffle has cutoff remains open.
 
 ## Files
